@@ -4,7 +4,7 @@ This script was used to generate some pages of a "Frackbuch" :)
 
 ## Dependencies
 
-- GTk 3 / Gnome Desktop
+- Gtk 3 / Gnome Desktop
 - gnome-screenshot
 - gsettings
 - Adwaita Theme
