@@ -22,7 +22,7 @@ klassen = [{"name": "REPLACE_ME",
             ],
             "mitglieder":
             [{"name":"Max Muster",
-               "bild":"portraits/REPLACE_ME/max.jpg",
+               "bild":"portraits/REPLACE_ME/a.png",
                                "darkmode": True,
                 "widgets":
                     [{"type": "progressBar", "percentage":0.8, "label": "Anwesenheit im Unterricht", "inverted": False},
@@ -36,8 +36,8 @@ klassen = [{"name": "REPLACE_ME",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                 "zitat": "\"Well, that was fun :D\""
             },
-            {"name": "Erich Example",
-                "bild":"portraits/REPLACE_ME/eric.jpg",
+            {"name": "Eric Example",
+                "bild":"portraits/REPLACE_ME/b.png",
                 "darkmode": True,
                 "widgets":
                     [{"type": "progressBar", "percentage":0.8, "label": "Anwesenheit im Unterricht", "inverted": False},
@@ -52,7 +52,7 @@ klassen = [{"name": "REPLACE_ME",
                 "zitat": "\"Well, that was fun :D\""
             },
             {"name": "Beat Beispiel",
-                "bild":"portraits/REPLACE_ME/beat.jpg",
+                "bild":"portraits/REPLACE_ME/c.png",
                 "darkmode": False,
                 "widgets":
                     [{"type": "progressBar", "percentage":0.8, "label": "Anwesenheit im Unterricht", "inverted": False},
@@ -67,7 +67,7 @@ klassen = [{"name": "REPLACE_ME",
                 "zitat": "\"Well, that was fun :D\""
             },
             {"name": "Fancy Dude",
-                "bild":"portraits/REPLACE_ME/beat.jpg",
+                "bild":"portraits/REPLACE_ME/d.png",
                 "darkmode": True,
                 "widgets":
                     [{"type": "progressBar", "percentage":0.8, "label": "Anwesenheit im Unterricht", "inverted": False},
